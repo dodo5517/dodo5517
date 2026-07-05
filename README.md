@@ -30,3 +30,14 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## Today's Dog
+
+<picture>
+  <img alt="dog" src="https://github.com/dodo5517/gitdogs/raw/output/dist/dog.svg" width="100%">
+</picture>
+
+<img alt="stats" src="https://github.com/dodo5517/gitdogs/raw/output/dist/stats.svg" width="100%">
+
+<sub>커밋 활동에 따라 하루를 보내는 강아지 - [gitdogs🐾](https://github.com/dodo5517/gitdogs)</sub>
+</markdown>
